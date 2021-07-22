@@ -1,2 +1,2 @@
 # storage
-provide Checkpoint for users.
+Provide checkpoint for users.
